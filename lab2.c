@@ -13,6 +13,7 @@ int main(){
 		a=function(a);
 		i++;
 	}
+	printf("Hai la baschet");
 	printf("%d", i);
 	return 0;	
 }
